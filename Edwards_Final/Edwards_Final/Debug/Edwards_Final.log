@@ -1,0 +1,35 @@
+﻿Build started 11/16/2016 3:01:13 AM.
+     1>Project "C:\Users\G\Documents\cis\Advance C++\Edwards_Final\Edwards_Final\Edwards_Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Edwards_Final.cpp
+         Edwards_Final.cpp
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(29): error C2374: 'date1' : redefinition; multiple initialization
+                 c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(28) : see declaration of 'date1'
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(30): error C2374: 'date1' : redefinition; multiple initialization
+                 c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(28) : see declaration of 'date1'
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(30): warning C4129: '_' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(37): warning C4129: '/' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(38): warning C4129: '(' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(42): warning C4129: '/' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(75): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(75): warning C4129: '|' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(76): warning C4129: '/' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(77): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(78): warning C4129: '.' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(84): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(85): warning C4129: '|' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(85): warning C4129: '_' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(100): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(101): warning C4129: '_' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(101): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(104): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(129): error C2065: 'head' : undeclared identifier
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(140): error C2065: 'foot' : undeclared identifier
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(151): error C2065: 'endOF' : undeclared identifier
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(187): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\g\documents\cis\advance c++\edwards_final\edwards_final\edwards_final.cpp(221): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Done Building Project "C:\Users\G\Documents\cis\Advance C++\Edwards_Final\Edwards_Final\Edwards_Final.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.65

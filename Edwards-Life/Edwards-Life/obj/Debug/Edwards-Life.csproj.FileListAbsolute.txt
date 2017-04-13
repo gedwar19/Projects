@@ -1,0 +1,6 @@
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\bin\Debug\Edwards-Life.exe.config
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\bin\Debug\Edwards-Life.exe
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\bin\Debug\Edwards-Life.pdb
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\obj\Debug\Edwards-Life.exe
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\obj\Debug\Edwards-Life.pdb
+C:\Users\G\Documents\cis\C#\Edwards-Life\Edwards-Life\obj\Debug\Edwards-Life.csprojResolveAssemblyReference.cache

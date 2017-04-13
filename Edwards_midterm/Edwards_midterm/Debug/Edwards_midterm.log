@@ -1,0 +1,17 @@
+﻿Build started 4/13/2017 4:56:10 AM.
+     1>Project "C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Edwards_midterm\Edwards_midterm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Edwards_midterm.cpp
+         Edwards_midterm.cpp
+     1>c:\users\g\documents\cis\advance c++\edwards_midterm\edwards_midterm\edwards_midterm.cpp(30): warning C4129: '/' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_midterm\edwards_midterm\edwards_midterm.cpp(31): warning C4129: '(' : unrecognized character escape sequence
+     1>c:\users\g\documents\cis\advance c++\edwards_midterm\edwards_midterm\edwards_midterm.cpp(158): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\g\documents\cis\advance c++\edwards_midterm\edwards_midterm\edwards_midterm.cpp(165): warning C4101: 'arr2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Debug\Edwards_midterm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Debug\Edwards_midterm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Debug\Edwards_midterm.lib" /MACHINE:X86 Debug\Edwards_midterm.obj
+         Edwards_midterm.vcxproj -> C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Debug\Edwards_midterm.exe
+     1>Done Building Project "C:\Users\G\Documents\cis\Advance C++\Edwards_midterm\Edwards_midterm\Edwards_midterm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.42
